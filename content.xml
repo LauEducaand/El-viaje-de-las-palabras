@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20261025092238UE7T50</value>
+    <value>202610250920335TIG7A</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20261025092238L0FI0D</value>
+    <value>20261025092033C3IZBW</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1792750538731</value>
+    <value>1793003071734</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -98,6 +98,26 @@
   <pageName>¡Bienvenidos al viaje!</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Bienvenidos al viaje!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>¡Bienvenidos al viaje!</value>
@@ -158,6 +178,60 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792751112334-zty4t7y7j","textInfoDurationInput":"","textInfoDurationTextInput":"","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>¡Hola! Vamos a emprender un viaje para descubrir que hay muchas maneras de comunicarnos.</p>\n<p>Aprenderemos palabras nuevas, construiremos frases, utilizaremos imágenes y pictogramas y crearemos un recurso que ayude a las personas a comprender y expresar sus ideas.</p>\n<p><br /></p>\n<p><strong>¿Cuál es nuestro reto?</strong></p>\n<p>Crear un recurso visual de comunicación para una situación cotidiana, como saludar, pedir ayuda, expresar necesidades o compartir cómo nos sentimos.</p>\n<p><br /></p>\n<p><strong>¿Qué vamos a aprender?</strong></p>\n<p>Comprender instrucciones y mensajes sencillos.<br />Utilizar palabras y frases funcionales.<br />Apoyarnos en imágenes, pictogramas, gestos o nuestra forma habitual de comunicarnos.<br />Colaborar y respetar las ideas de los demás.<br />Utilizar la tecnología de forma segura y responsable.</p>\n<p>¡Empezamos!</p>\n<p><br /><strong>Observa, escucha, elige tus palabras y comunícate a tu manera.</strong></p>\n<p><strong title=\"\"><a href=\"https://docs.google.com/document/d/1-98h1GLrV8vT84NMahC42Ho1wWtp-ivPIVEAQCo2bvA/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">2.1 Comenzamos nuestro proyecto</a></strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>aff171b9-8eae-4881-afde-56880601bf3c</odePageId>
+      <odeBlockId>block-mvoztvp4-o5mapuw3a</odeBlockId>
+      <blockName>¿Cómo nos comunicamos?</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>aff171b9-8eae-4881-afde-56880601bf3c</odePageId>
+          <odeBlockId>block-mvoztvp4-o5mapuw3a</odeBlockId>
+          <odeIdeviceId>idevice-1793003231413-3brqf2s1z</odeIdeviceId>
+          <odeIdeviceTypeName>identify</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="identifica-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1793003231413-3brqf2s1z" data-evaluationb="false" data-evaluationid="e44f1b37-7a55-4e07-bd82-144b7245e160"></div><div class="identifica-instructions"><p>Mira las imágenes y reconoce diferentes formas de comunicarnos.</p></div><div class="identifica-version js-hidden">1</div><div class="identifica-feedback-game"></div><div class="identifica-DataGame js-hidden" >%E9%B0%F3%E1%FB%F5%FC%F3%E6%E7%E0%F3%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%DB%F6%F7%FC%E6%FB%F4%FB%F1%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%D7%EA%F7%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%DF%FB%E0%F3%B7%A0%A2%FE%F3%E1%B7%A0%A2%FB%FF%B7%D7%A3%F5%F7%FC%F7%E1%B7%A0%A2%EB%B7%A0%A2%E0%F7%F1%FD%FC%FD%F1%F7%B7%A0%A2%F6%FB%F4%F7%E0%F7%FC%E6%F7%E1%B7%A0%A2%F4%FD%E0%FF%F3%E1%B7%A0%A2%F6%F7%B7%A0%A2%F1%FD%FF%E7%FC%FB%F1%F3%E0%FC%FD%E1%BC%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%C7%E6%FB%FE%FB%E8%F3%FC%F6%FD%B2%FE%F3%E1%B2%E2%FB%E1%E6%F3%E1%B2%F6%F7%E1%F1%E7%F0%E0%F7%B2%FE%F3%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%B2%FD%F1%E7%FE%E6%F3%B2%E2%F3%E0%F3%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E3%E7%F7%E1%E6%FB%FD%FC%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E3%E7%F7%E1%E6%FB%FD%FC%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%FC%E7%FF%F0%F7%E0%D1%FE%E7%F7%E1%B0%A8%A6%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F7%F7%A4%A7%F0%F6%F1%AB%BF%A5%F3%F0%A0%BF%F6%F0%A2%F0%BF%F4%A1%A6%F4%BF%F7%F7%F6%A5%A1%AB%A2%F1%A5%AB%A0%AB%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0-%D1a%FF%FD%B2%FC%FD%E1%B2%F1%FD%FF%E7%FC%FB%F1%F3%FF%FD%E1%AD%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%DA%F3%F0%FE%F3%FC%F6%FD%BE%B2%F7%E1%F1%E0%FB%F0%FB%F7%FC%F6%FD%BE%B2%F1%FD%FC%B2%F5%F7%E1%E6%FD%E1%B2%EB%B2%F1%FD%FC%B2%FB%FFs%F5%F7%FC%F7%E1%BC%B0%BE%B0%F1%FE%E7%F7%E1%B0%A8%C9%B0%D1%FD%FC%B2%F5%F7%E1%E6%FD%E1%B0%BE%B0%D7%E1%F1%E0%FB%F0%FB%F7%FC%F6%FD%B0%BE%B0%C1%FD%FE%FD%B2%F1%FD%FC%B2%FE%F3%B2%E4%FD%E8%B0%BE%B0%DA%F3%F0%FE%F3%FC%F6%FD%BE%B2%F7%E1%F1%E0%FB%F0%FB%F7%FC%F6%FD%BE%B2%F1%FD%FC%B2%F5%F7%E1%E6%FD%E1%B2%EB%B2%F1%FD%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%B0%BE%B0%B0%BE%B0%B0%BE%B0%B0%CF%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%F3%E6%E6%F7%FF%E2%E6%E1%B0%A8%A1%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%F3%E4%F3%FC%F1%F7%F6%DF%FD%F6%F7%B0%A8%E6%E0%E7%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F7%A6%A6%F4%A3%F0%A1%A5%BF%A5%F3%A7%A7%BF%A6%F7%A2%A5%BF%F0%F6%AA%A0%BF%A3%A6%A6%F0%A5%A0%A6%A7%F7%A3%A4%A2%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AB%A1%A2%A2%A1%A0%A1%A3%A6%A3%A1%BF%A1%F0%E0%E3%F4%A0%E1%A3%E8%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%DE%FB%E4%F7%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E7%FC%F3%B2%E4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B03%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B2%FE%F3%E1%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B0%C1%E7%F5%F7%E0%F7%FC%F1%FB%F3%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%D1%FE%E7%F7%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%B2%E7%FC%F3%B2%E2%FB%E1%E6%F3%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DC%F7%E5%D1%FE%E7%F7%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%B2%FD%E6%E0%F3%B2%E2%FB%E1%E6%F3%B0%BE%B0%FF%E1%F5%C7%E1%F7%D4%E7%FE%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%F7%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%E1%F7%E0s%B2%FF%E7%EB%B2h%E6%FB%FE%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%D1%F3%E0%F5%F3%FC%F6%FD%BC%B2%D7%E1%E2%F7%E0%F7%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%BC%BC%BC%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D3%E6%E6%F7%FF%E2%E6%E1%B0%A8%B0%DB%FC%E6%F7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E7%FC%E6%FD%E1%B2%F7%FC%B2%F8%E7%F7%F5%FD%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%D7%E1%F1%E0%FB%F0%F7%B2%FE%F3%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%D1%F3%FC%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%C2%E7%F7%F6%F7%E1%B2%FB%FC%E6%F7%FC%E6%F3%E0%FE%FD%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%C1%E6%F3%E0%E6%F7%F6%B0%A8%B0%D7%FE%B2%F8%E7%F7%F5%FD%B2%EB%F3%B2%FA%F3%B2%F1%FD%FF%F7%FC%E8%F3%F6%FD%BC%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%D7%FC%F6%B0%A8%B0%D8%E7%F7%F5%FD%B2%E6%F7%E0%FF%FB%FC%F3%F6%FD%BC%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%D3%FC%E1%E5%F7%E0%B0%A8%B0%DE%F3%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%DF%FD%E4%F7%DD%FC%F7%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%C7%E1%F7%D1%FE%E7%F7%B0%A8%B0%DA%F3%E1%B2%E7%E6%FB%FE%FB%E8%F3%F6%FD%B2%E7%FC%F3%B2%E2%FB%E1%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%E1%B2%F1%FD%FC%E1%F7%F5%E7%FB%E0%B2%B7%E1%B2%E2%E7%FC%E6%FD%E1%BC%B0%BE%B0%FF%E1%F5%C7%E1%F7%D3%FE%FE%D1%FE%E7%F7%E1%B0%A8%B0%CB%F3%B2%FA%F3%E1%B2%E7%E6%FB%FE%FB%E8%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%E2%FB%E1%E6%F3%E1%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%E1%B2%F1%FD%FC%E1%F7%F5%E7%FB%E0%B2%B7%E1%B2%E2%E7%FC%E6%FD%E1%BC%B0%BE%B0%FF%E1%F5%DF%FD%F6%F7%C5%FA%FB%E6%F7%D0%FD%F3%E0%F6%B0%A8%B0%DF%FD%F6%FD%B2%E2%FB%E8%F3%E0%E0%F3%B2%F6%FB%F5%FB%E6%F3%FE%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%DE%F7%E6%E6%F7%E0%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B2%FE%F3%B2%FE%F7%E6%E0%F3%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%DB%F6%F7%FC%E6%FB%F4%FB%F1%F3%B0%EF%EF</div><a href="{{context_path}}/content/resources/comunicar.png" class="js-hidden identifica-LinkImages">0</a><div class="identifica-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -170,6 +244,26 @@
   <pageName>Nos comunicamos</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nos comunicamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Nos comunicamos</value>
@@ -240,6 +334,112 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792752099449-1rpwrlm6e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¡Descubrimos el poder de las palabras!</strong><br />Comunicarnos nos permite expresar lo que pensamos, sentimos y necesitamos. Podemos hacerlo hablando, escribiendo, utilizando gestos, imágenes, pictogramas o sistemas aumentativos y alternativos de comunicación (SAAC).</p>\n<p>¡Todas las personas podemos comunicarnos! Lo importante es encontrar la forma que mejor nos ayude a comprender y a hacernos entender.</p>\n<p><strong>1. Aprendemos palabras nuevas</strong> <br />Observa estas situaciones y aprende algunas palabras que utilizamos en nuestro día a día:</p>\n<p>Saludar: hola, buenos días, adiós.<br />Pedir ayuda: ayuda, por favor, ¿me ayudas?<br />Expresar necesidades: agua, descanso, baño.<br />Expresar emociones: alegría, tristeza, miedo, enfado, calma.<br />Relacionarnos: gracias, perdón, ¿jugamos?, ¿puedo participar?<br />Piensa en qué situaciones utilizarías cada palabra.</p>\n<p><strong>2. Construimos frases</strong> <br />Las palabras nos permiten crear mensajes para comunicarnos con los demás.</p>\n<p>Ejemplos:</p>\n<p>«Hola, ¿cómo estás?».<br />«Necesito ayuda, por favor».<br />«Quiero beber agua».<br />«Estoy contento».<br />«¿Puedo jugar contigo?».</p>\n<p><br /><strong>Reto:</strong> elige una situación cotidiana y construye un mensaje para expresar lo que necesitas, piensas o sientes. Puedes utilizar palabras, imágenes, pictogramas, gestos o tu sistema habitual de comunicación.</p>\n<p><strong>3. Nos comunicamos con pictogramas</strong> <br />Los pictogramas son imágenes que representan objetos, acciones, personas, lugares o emociones. Pueden ayudarnos a comprender mensajes y expresar necesidades.</p>\n<p>Podemos utilizarlos para:</p>\n<p>Elegir una actividad.<br />Expresar cómo nos sentimos.<br />Pedir ayuda.<br />Organizar nuestras rutinas.<br />Comunicar lo que queremos o necesitamos.<br />Podemos encontrar pictogramas y materiales de apoyo en ARASAAC, un portal de recursos de comunicación aumentativa y alternativa.</p>\n<p><strong>4. Practicamos situaciones cotidianas </strong><br />Lee cada situación y piensa qué mensaje utilizarías:</p>\n<p>Situación A. Necesitas ayuda para abrir tu estuche.</p>\n<p>¿Qué podrías decir o comunicar?</p>\n<p>Situación B. Quieres participar en un juego con tus compañeros.</p>\n<p>¿Cómo puedes pedir participar?</p>\n<p>Situación C. Estás triste y quieres que alguien te ayude.</p>\n<p>¿Cómo expresarías lo que sientes y necesitas?</p>\n<p>Puedes responder oralmente, escribir una frase, señalar pictogramas, utilizar gestos o emplear tu sistema de comunicación habitual.</p>\n<p><strong>5. Nuestro compromiso</strong> <br />Escuchamos y respetamos a los demás.<br />Esperamos nuestro turno.<br />Damos tiempo para responder.<br />No nos burlamos de ninguna forma de comunicación.<br />Ayudamos a que todas las personas puedan participar.<br /></p>\n<p><strong>Recuerda</strong>: comunicarse no consiste únicamente en hablar. También consiste en comprender, escuchar, observar y respetar.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvktgshl-9lhmadtfa</odePageId>
+      <odeBlockId>block-mvp0e0r7-u5sepv0ry</odeBlockId>
+      <blockName>Relaciona</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvktgshl-9lhmadtfa</odePageId>
+          <odeBlockId>block-mvp0e0r7-u5sepv0ry</odeBlockId>
+          <odeIdeviceId>idevice-1793004171089-hdldy7h6l</odeIdeviceId>
+          <odeIdeviceTypeName>relate</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="relaciona-IDevice"><div class="relaciona-instructions gameQP-instructions"><p>Lee cada situación y únela con la frase que mejor expresa lo que necesitas.</p></div><div class="relaciona-DataGame js-hidden">{"typeGame":"Relaciona","author":"","randomCards":true,"instructions":"<p>Lee cada situación y únela con la frase que mejor expresa lo que necesitas.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/estuche.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Necesito%20ayuda%20para%20abrir%20mi%20estuche","urlBk":"{{context_path}}/content/resources/¿puedo ayudarte.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"%C2%BFMe%20ayudas%2C%20por%20favor%3F"},{"url":"{{context_path}}/content/resources/llevar al colegio.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Llego%20a%20clase%20por%20la%20ma%C3%B1ana","urlBk":"{{context_path}}/content/resources/buenos días.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"%C2%A1Buenos%20d%C3%ADas!"},{"url":"{{context_path}}/content/resources/sed.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Tengo%20sed","urlBk":"{{context_path}}/content/resources/agua.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"%C2%BFMe%20das%20agua%2C%20por%20favor%3F"}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"e44f1b37-7a55-4e07-bd82-144b7245e160","id":"idevice-1793004171089-hdldy7h6l","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Relaciona","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><div class="game-evaluation-ids js-hidden" data-id="idevice-1793004171089-hdldy7h6l" data-evaluationb="false" data-evaluationid="e44f1b37-7a55-4e07-bd82-144b7245e160"></div><a href="{{context_path}}/content/resources/estuche.png" class="js-hidden relaciona-LinkImages">0</a><a href="{{context_path}}/content/resources/¿puedo ayudarte.png" class="js-hidden relaciona-LinkImagesBack">0</a><a href="{{context_path}}/content/resources/llevar al colegio.png" class="js-hidden relaciona-LinkImages">1</a><a href="{{context_path}}/content/resources/buenos días.png" class="js-hidden relaciona-LinkImagesBack">1</a><a href="{{context_path}}/content/resources/sed.png" class="js-hidden relaciona-LinkImages">2</a><a href="{{context_path}}/content/resources/agua.png" class="js-hidden relaciona-LinkImagesBack">2</a><div class="relaciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvktgshl-9lhmadtfa</odePageId>
+      <odeBlockId>block-mvp2ag7i-kmwmj7iri</odeBlockId>
+      <blockName>Busca palabras que nos ayudan a comunicarnos</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvktgshl-9lhmadtfa</odePageId>
+          <odeBlockId>block-mvp2ag7i-kmwmj7iri</odeBlockId>
+          <odeIdeviceId>idevice-1793007363724-o3vfrgvmx</odeIdeviceId>
+          <odeIdeviceTypeName>word-search</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="sopa-IDevice">
+        <div class="game-evaluation-ids js-hidden" data-id="idevice-1793007363724-o3vfrgvmx" data-evaluationb="false" data-evaluationid="e44f1b37-7a55-4e07-bd82-144b7245e160"></div>
+                <div class="sopa-version js-hidden">2</div>
+                 <div class="sopa-instructions"><p>¡Encuentra las palabras que nos ayudan a comunicarnos! Busca HOLA, AYUDA, AGUA y GRACIAS. Después, piensa cuándo puedes utilizar cada una en tu día a día.</p></div>
+                <div class="sopa-feedback-game"></div>              
+                <div class="sopa-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%FD%E2%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC3%D7%FC%F1%E7%F7%FC%E6%E0%F3%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%E3%E7%F7%B2%FC%FD%E1%B2%F3%EB%E7%F6%F3%FC%B2%F3%B2%F1%FD%FF%E7%FC%FB%F1%F3%E0%FC%FD%E1%B3%B2%D0%E7%E1%F1%F3%B2%DA%DD%DE%D3%BE%B2%D3%CB%C7%D6%D3%BE%B2%D3%D5%C7%D3%B2%EB%B2%D5%C0%D3%D1%DB%D3%C1%BC%B2%D6%F7%E1%E2%E7%7B%E1%BE%B2%E2%FB%F7%FC%E1%F3%B2%F1%E7s%FC%F6%FD%B2%E2%E7%F7%F6%F7%E1%B2%E7%E6%FB%FE%FB%E8%F3%E0%B2%F1%F3%F6%F3%B2%E7%FC%F3%B2%F7%FC%B2%E6%E7%B2%F6%7F%F3%B2%F3%B2%F6%7F%F3%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E5%FD%E0%F6%B0%A8%B0%DA%DD%DE%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C1%F3%FE%E7%F6%FD%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D3%CB%C7%D6%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DE%F3%B2%E2%F7%F6%FB%FF%FD%E1%B2%F1%E7%F3%FC%F6%FD%B2%FC%FD%B2%E2%FD%F6%F7%FF%FD%E1%B2%FA%F3%F1%F7%E0%B2%F3%FE%F5%FD%B2%E1%FD%FE%FD%E1%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D3%D5%C7%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DE%F3%B2%F0%F7%F0%F7%FF%FD%E1%B2%F1%E7%F3%FC%F6%FD%B2%E6%F7%FC%F7%FF%FD%E1%B2%E1%F7%F6%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D5%C0%D3%D1%DB%D3%C1%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DE%FD%B2%F6%F7%F1%FB%FF%FD%E1%B2%F1%E7%F3%FC%F6%FD%B2%F3%FE%F5%E7%FB%F7%FC%B2%FA%F3%F1%F7%B2%F3%FE%F5%FD%B2%F0%E7%F7%FC%FD%B2%E2%FD%E0%B2%FC%FD%E1%FD%E6%E0%FD%E1%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%F6%FB%F3%F5%FD%FC%F3%FE%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E0%F7%E4%F7%E0%E1%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C0%F7%E1%FD%FE%E4%F7%B0%A8%E6%E0%E7%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F7%A6%A6%F4%A3%F0%A1%A5%BF%A5%F3%A7%A7%BF%A6%F7%A2%A5%BF%F0%F6%AA%A0%BF%A3%A6%A6%F0%A5%A0%A6%A7%F7%A3%A4%A2%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AB%A1%A2%A2%A5%A1%A4%A1%A5%A0%A6%BF%FD%A1%E4%F4%E0%F5%E4%FF%EA%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C5%FD%E0%F6%E1%D4%FB%FC%F6%B0%A8%B0%DA%F3%E1%B2%F7%FC%F1%FD%FC%E6%E0%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%DB%FC%FB%F1%FB%F3%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%BC%BC%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%B0%A8%B0%D7%FE%B2%F8%E7%F7%F5%FD%B2%EB%F3%B2%FA%F3%B2%F1%FD%FF%F7%FC%E8%F3%F6%FD%BC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D3%F1%F3%F0a%B2%F7%FE%B2%E6%FB%F7%FF%E2%FD%B2%F6%F7%B2%F8%E7%F7%F5%FD%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%B0%A8%B0%D4%FB%FC%F3%FE%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%DF%B0%A8%B0%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%DF%F3%FC%EB%C5%FD%E0%F6%B0%A8%B0%DB%FC%E6%F7%FC%E6%F3%B2%F1%FD%FC%B2%FF%F7%FC%FD%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D0%E7%E1%F1%F3%E0%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%EF%EF</div>
+                
+                
+                
+                <div class="sopa-bns js-hidden">Su navegador no es compatible con esta herramienta.</div>
+                </div> ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -255,6 +455,30 @@
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Nos cuidamos en internet</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nos cuidamos en internet</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -299,6 +523,60 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792830948488-9bsj0drvz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/af6eta3fv046lsn\" title=\"\"><img src=\"{{context_path}}/content/resources/Diseño sin título.jpg\" title=\"2.3 Licencias y seguridad\" width=\"1280\" height=\"1810\" alt=\"\" /></a></p>\n<p><a href=\"https://canva.link/af6eta3fv046lsn\" title=\"\">2.3 Licencias y seguridad</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvm56kcn-97ffmcuji</odePageId>
+      <odeBlockId>block-mvp0ltlh-mk044k7lh</odeBlockId>
+      <blockName>¿Seguro o peligroso?</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvm56kcn-97ffmcuji</odePageId>
+          <odeBlockId>block-mvp0ltlh-mk044k7lh</odeBlockId>
+          <odeIdeviceId>idevice-1793004535058-5lo9a4ng8</odeIdeviceId>
+          <odeIdeviceTypeName>classify</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="clasifica-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1793004535058-5lo9a4ng8" data-evaluationb="false" data-evaluationid="e44f1b37-7a55-4e07-bd82-144b7245e160"></div><div class="clasifica-feedback-game"></div><div class="clasifica-instructions"><p>Mira cada situación y colócala en el grupo correcto. ¡Aprendemos a navegar con seguridad!</p></div><div class="clasifica-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FE%F3%E1%FB%F4%FB%F1%F3%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DF%FB%E0%F3%B2%F1%F3%F6%F3%B2%E1%FB%E6%E7%F3%F1%FBa%FC%B2%EB%B2%F1%FD%FEa%F1%F3%FE%F3%B2%F7%FC%B2%F7%FE%B2%F5%E0%E7%E2%FD%B2%F1%FD%E0%E0%F7%F1%E6%FD%BC%B23%D3%E2%E0%F7%FC%F6%F7%FF%FD%E1%B2%F3%B2%FC%F3%E4%F7%F5%F3%E0%B2%F1%FD%FC%B2%E1%F7%F5%E7%E0%FB%F6%F3%F6%B3%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A2%A0%A0%A7%F1%A6%A0%A2%BF%A7%A0%F3%A4%BF%AB%A6%A3%A2%BF%A5%F4%A7%A6%BF%AA%A4%A1%F0%F6%A1%A5%A5%F7%A1%F7%AB%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%C2%F7%F6%FB%E0%B2%F3%EB%E7%F6%F3%B2%F3%B2%E7%FC%F3%B2%E2%F7%E0%E1%FD%FC%F3%B2%F3%F6%E7%FE%E6%F3%B2%F6%F7%B2%F1%FD%FC%F4%FB%F3%FC%E8%F3%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A3%F7%A7%A2%AB%A6%F6%AA%BF%A7%A0%F6%A6%BF%AB%F1%A4%A6%BF%A4%AB%AB%F6%BF%A1%F0%AB%A1%A3%AB%A7%A3%A7%A6%A3%A7%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%D6%F3%E0%B2%FF%FB%B2%F1%FD%FC%E6%E0%F3%E1%F7c%F3%B2%F3%B2%E7%FC%F3%B2%E2%F7%E0%E1%FD%FC%F3%B2%F6%F7%E1%F1%FD%FC%FD%F1%FB%F6%F3%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F4%F6%A7%F0%A0%A4%A7%AB%BF%A7%A7%A4%F1%BF%F1%A3%F6%A0%BF%A5%A4%A2%A4%BF%A3%A2%A4%A5%A1%A2%F4%AA%A5%A0%AA%A0%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%C2%E7%F0%FE%FB%F1%F3%E0%B2%E7%FC%F3%B2%F4%FD%E6%FD%B2%F6%F7%B2%E7%FC%B2%F1%FD%FF%E2%F3c%F7%E0%FD%B2%E1%FB%FC%B2%E2%F7%E0%FF%FB%E1%FD%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F6%F7%A7%A3%F3%AB%A3%A4%BF%A7%A3%AB%F4%BF%A4%AA%A4%F6%BF%F7%A0%AB%A5%BF%A6%AB%A1%A1%F0%A4%AA%F6%F0%A1%F3%AB%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%C0%F7%E1%E2%F7%E6%F3%E0%B2%F3%B2%FE%FD%E1%B2%F1%FD%FF%E2%F3c%F7%E0%FD%E1%B2%F7%FC%B2%FB%FC%E6%F7%E0%FC%F7%E6%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A2%BC%AA%BE%B0%F5%E0%FD%E7%E2%E1%B0%A8%C9%B0%C1%F7%F5%E7%E0%FD%B0%BE%B0%C2%F7%FE%FB%F5%E0%FD%E1%FD%B0%BE%B0%D5%E0%E7%E2%FD%B2%A1%B0%BE%B0%D5%E0%E7%E2%FD%B2%A6%B0%BE%B0%D5%E0%E7%E2%FD%B2%A7%B0%BE%B0%D5%E0%E7%E2%FD%B2%A4%B0%BE%B0%D5%E0%E7%E2%FD%B2%A5%B0%BE%B0%D5%E0%E7%E2%FD%B2%AA%B0%BE%B0%D5%E0%E7%E2%FD%B2%AB%B0%CF%BE%B0%FC%E7%FF%F0%F7%E0%D5%E0%FD%E7%E2%E1%B0%A8%A0%BE%B0%F5%F3%FF%F7%DE%F7%E4%F7%FE%B0%A8%A0%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F7%A6%A6%F4%A3%F0%A1%A5%BF%A5%F3%A7%A7%BF%A6%F7%A2%A5%BF%F0%F6%AA%A0%BF%A3%A6%A6%F0%A5%A0%A6%A7%F7%A3%A4%A2%B0%BE%B0%FB%FF%F5%D1%F3%E0%F6%B0%A8%B0%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AB%A1%A2%A2%A6%A7%A1%A7%A2%A7%AA%BF%A7%FE%FD%AB%F3%A6%FC%F5%AA%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%CB%F7%E1%B0%A8%B0%C1%7F%B0%BE%B0%FF%E1%F5%DC%FD%B0%A8%B0%DC%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%C6%E7%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%B0%A8%B03%D7%FE%B2%F8%E7%F7%F5%FD%B2%FA%F3%B2%F1%FD%FF%F7%FC%E8%F3%F6%FD%B3%B2%D3%E0%E0%F3%E1%E6%E0%F3%B2%F1%F3%F6%F3%B2%E6%F3%E0%F8%F7%E6%F3%B2%FA%F3%E1%E6%F3%B2%E1%E7%B2%F1%FD%FC%E6%F7%FC%F7%F6%FD%E0%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%FD%E6%E0%F3%B2%E6%F3%E0%F8%F7%E6%F3%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%DD%FC%F7%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E6%F3%E0%F8%F7%E6%F3%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%C6%F7%E1%E6%C2%F3%E1%E1%F7%F6%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B23%C2%E0%E7%F7%F0%F3%B2%E1%E7%E2%F7%E0%F3%F6%F3%B3%B0%BE%B0%FF%E1%F5%C6%F7%E1%E6%D4%F3%FB%FE%F7%F6%B0%A8%B0%DC%FD%B2%FA%F3%E1%B2%E1%E7%E2%F7%E0%F3%F6%FD%B2%FE%F3%B2%E2%E0%E7%F7%F0%F3%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%D5%F3%FF%F7%B0%A8%B0-%D6%F7%E1%F7%F3%E1%B2%E0%F7%FB%FC%FB%F1%FB%F3%E0%B2%F7%E1%E6%F3%B2%E2%F3%E0%E6%FB%F6%F3%AD%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%D3%FC%E1%E5%F7%E0%E1%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B2%E0%F7%E1%E7%FE%E6%F3%F6%FD%E1%B0%BE%B0%FF%E1%F5%C7%FC%F3%FC%E1%E5%F7%E0%F7%F6%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%C6%F7%B2%FA%F3%FC%B2%E3%E7%F7%F6%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%E2%FD%E0%B2%F1%FD%FE%FD%F1%F3%E0%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%BC%B2-%C3%E7%FB%F7%E0%F7%E1%B2%FB%FC%E6%F7%FC%E6%F3%E0%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%AD%B0%BE%B0%FF%E1%F5%D3%FE%FE%D1%FD%E0%E0%F7%F1%E6%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B23%C6%FD%F6%FD%B2%E2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%C6%FD%FD%DF%F3%FC%EB%C6%E0%FB%F7%E1%B0%A8%B03%D7%E1%E6%E7%E2%F7%FC%F6%FD%B3%B2%DA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F7%FC%B2%B7%E1%B2%FB%FC%E6%F7%FC%E6%FD%E1%BC%B23%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%E2%E7%F7%F6%F7%E1%B2%FA%F3%F1%F7%E0%FE%FD%B2%FFs%E1%B2%E0s%E2%FB%F6%FD%B3%B0%BE%B0%FF%E1%F5%C3%A7%B0%A8%B0%DC%FD%B2%FA%F3%E1%B2%F1%FD%FE%FD%F1%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%F7%FC%B2%E1%E7%B2%FE%E7%F5%F3%E0%BC%B23%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B3%B0%BE%B0%FF%E1%F5%C3%A5%B0%A8%B03%D7%E1%E6%E7%E2%F7%FC%F6%FD%B3%B2%DA%F3%E1%B2%F1%FE%F3%E1%FB%F4%FB%F1%F3%F6%FD%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B2%FE%F3%B2%FF%F3%EB%FD%E0%B2%E2%F3%E0%E6%F7%B2%F6%F7%B2%FE%F3%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%BE%B2%B7%E1%BE%B2%E2%F7%E0%FD%B2%F3h%FC%B2%E2%E7%F7%F6%F7%E1%B2%FF%F7%F8%FD%E0%F3%E0%B0%BE%B0%FF%E1%F5%C3%AB%B0%A8%B03%DF%F3%F5%FC%7F%F4%FB%F1%FD%B3%B2%C6%F3%FC%B2%E1%FD%FE%FD%B2%E6%F7%B2%FA%F3%FC%B2%E3%E7%F7%F6%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%E2%FD%E0%B2%F1%FD%FE%FD%F1%F3%E0%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%BC%B2%D0%E7%E1%F1%F3%B2%FE%F3%B2%E2%F7%E0%F4%F7%F1%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D5%F3%FF%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F3%FE%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D5%F3%FF%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F3%FE%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%E1%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%E0%C1%F1%FD%E0%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%E1%B2%F5%E7%F3%E0%F6%F3%E0%B2%E6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%E0%F3%E1%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FE%F3%E1%FB%F4%FB%F1%F3%B0%EF%EF</div><a href="{{context_path}}/content/resources/adulto.png" class="js-hidden clasifica-LinkImages">0</a><a href="{{context_path}}/content/resources/contraseña.png" class="js-hidden clasifica-LinkImages">1</a><a href="{{context_path}}/content/resources/foto.png" class="js-hidden clasifica-LinkImages">2</a><a href="{{context_path}}/content/resources/compañero.png" class="js-hidden clasifica-LinkImages">3</a><div class="clasifica-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -311,6 +589,26 @@
   <pageName>Nuestro camino</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro camino</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Nuestro camino</value>
@@ -400,6 +698,60 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792833120127-fsko0soz8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¡Comienza nuestra aventura! </strong></p>\n<p>A lo largo de este proyecto vamos a descubrir nuevas palabras, aprender a construir mensajes y encontrar diferentes formas de comunicarnos. Para conseguirlo, seguiremos un recorrido de siete tareas, en las que trabajaremos individualmente, en parejas y en grupo.</p>\n<p>En cada tarea tendremos una <strong>misión</strong>. Utilizaremos palabras, imágenes, pictogramas y recursos digitales para aprender de forma práctica, cooperativa y divertida.</p>\n<ul style=\"list-style-type: square;\">\n<li><em><strong>T.1. Nos preparamos:</strong> </em>¿Qué vamos a hacer?</li>\n</ul>\n<p>Comenzaremos hablando sobre situaciones cotidianas en las que necesitamos comunicarnos, como saludar, pedir ayuda o expresar lo que necesitamos.</p>\n<p>Duración: 45 minutos.<br />Cómo trabajaremos: en gran grupo.<br />Qué necesitamos: pizarra digital o pictogramas impresos.<br />Dónde: aula ordinaria.<br />Nuestra misión: descubrir en qué situaciones nos comunicamos cada día y compartir nuestras ideas.</p>\n<ul style=\"list-style-type: square;\">\n<li><em><strong>T.2. Descubrimos palabras:</strong></em> ¿Qué vamos a hacer?</li>\n</ul>\n<p>Clasificaremos vocabulario relacionado con personas, lugares y acciones. Utilizaremos apoyos visuales para reconocer las palabras y comprender mejor su significado.</p>\n<p>Duración: 45 minutos.<br />Cómo trabajaremos: en parejas o pequeños grupos.<br />Qué necesitamos: pizarra digital y tarjetas visuales.<br />Dónde: aula ordinaria o aula de Audición y Lenguaje (AL).<br />Nuestra misión: ampliar nuestro vocabulario y aprender nuevas palabras que nos ayuden a comunicarnos.</p>\n<ul style=\"list-style-type: square;\">\n<li><em><strong>T.3. Comprendemos mensajes: </strong></em>¿Qué vamos a hacer?</li>\n</ul>\n<p>Relacionaremos mensajes breves con la imagen correcta. Prestaremos atención a lo que expresa cada mensaje y buscaremos la imagen que mejor representa su significado.</p>\n<p>Duración: 45 minutos.<br />Cómo trabajaremos: individualmente.<br />Qué necesitamos: tarjetas o la aplicación Wordwall.<br />Dónde: aula ordinaria.<br />Nuestra misión: comprender mensajes sencillos y relacionarlos con imágenes que nos ayuden a entenderlos.</p>\n<ul style=\"list-style-type: square;\">\n<li> <em><strong>T.4. Construimos frases:</strong></em> ¿Qué vamos a hacer?</li>\n</ul>\n<p>Ordenaremos palabras y pictogramas para formar frases con sentido. Practicaremos cómo organizar los elementos de un mensaje para expresar nuestras ideas y necesidades.</p>\n<p>Duración: 2 sesiones de 45 minutos (90 minutos en total).<br />Cómo trabajaremos: en parejas e individualmente.<br />Qué necesitamos: tiras de palabras y pictogramas.<br />Dónde: aula de Audición y Lenguaje (AL).<br />Nuestra misión: construir frases sencillas que nos permitan expresar mensajes útiles en nuestra vida cotidiana.</p>\n<ul style=\"list-style-type: square;\">\n<li><em><strong>T.5. Creamos un recurso:</strong></em> ¿Qué vamos a hacer?</li>\n</ul>\n<p>Crearemos una página con una situación comunicativa. Elegiremos una situación, seleccionaremos el mensaje que queremos transmitir y organizaremos los elementos visuales para que se comprenda fácilmente.</p>\n<p>Duración: 45 minutos.<br />Cómo trabajaremos: en pequeños grupos o equipos.<br />Qué necesitamos: Canva o una plantilla en papel.<br />Dónde: aula ordinaria.<br />Nuestra misión: crear un recurso visual que ayude a comunicar un mensaje de forma clara y comprensible.</p>\n<ul style=\"list-style-type: square;\">\n<li><em><strong>T.6. Compartimos:</strong></em> ¿Qué vamos a hacer?</li>\n</ul>\n<p>Presentaremos nuestro recurso al resto de la clase. Explicaremos qué situación hemos elegido, qué mensaje queremos transmitir y cómo puede ayudar a comunicarnos.</p>\n<p>Duración: 45 minutos.<br />Cómo trabajaremos: en gran grupo.<br />Qué necesitamos: pizarra o proyector.<br />Dónde: aula ordinaria.<br />Nuestra misión: compartir nuestras creaciones, escuchar a los compañeros y valorar el trabajo de todos.</p>\n<ul style=\"list-style-type: square;\">\n<li><em><strong>T.7. Reflexionamos:</strong></em> ¿Qué vamos a hacer?</li>\n</ul>\n<p>Pensaremos en cómo hemos realizado el proyecto, qué nos ha ayudado a aprender y qué dificultades hemos encontrado. Primero reflexionaremos individualmente y después compartiremos nuestras ideas mediante un diálogo grupal.</p>\n<p>Duración: 45 minutos.<br />Cómo trabajaremos: reflexión individual y diálogo grupal.<br />Qué necesitamos: plantilla de preguntas de reflexión.<br />Dónde: aula ordinaria.<br />Nuestra misión: reconocer lo que hemos aprendido, valorar nuestro esfuerzo e identificar qué podemos mejorar.</p>\n<p><strong>¡Ya conocemos nuestro camino!</strong> Ahora estamos preparados para comenzar el viaje de las palabras y descubrir todo lo que podemos comunicar.</p>\n<p><a href=\"https://canva.link/7hbxa93s5kx4xtv\" target=\"_blank\" rel=\"noopener\" title=\"\">7.1 Línea temporal</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvkthln0-6hufy6dw0</odePageId>
+      <odeBlockId>block-mvp2hrzh-p6utx64ck</odeBlockId>
+      <blockName>Puzzle</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvkthln0-6hufy6dw0</odePageId>
+          <odeBlockId>block-mvp2hrzh-p6utx64ck</odeBlockId>
+          <odeIdeviceId>idevice-1793007705580-83htdolxu</odeIdeviceId>
+          <odeIdeviceTypeName>puzzle</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="puzzle-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1793007705580-83htdolxu" data-evaluationb="false" data-evaluationid="e44f1b37-7a55-4e07-bd82-144b7245e160"></div><div class="puzzle-feedback-game"></div><div class="puzzle-instructions"><p>Resuelve los siguientes puzles.</p></div><div class="puzzle-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%E8%FE%F7%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%C0%F7%E1%E7%F7%FE%E4%F7%B2%FE%FD%E1%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%E1%B2%E2%E7%E8%FE%F7%E1%BC%AE%BD%E2%AC%B0%BE%B0%E0%F3%FC%F6%FD%FF%C2%E7%E8%E8%FE%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E2%E7%E8%E8%FE%F7%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%E0%FD%E5%E1%B0%A8%A1%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A1%BE%B0%E1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%DC%E7%FF%F0%F7%E0%B0%A8%F4%F3%FE%E1%F7%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C2%F3%E0%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%E0%B2%FC%E7%F7%E1%E6%E0%FD%B2%E4%FB%F3%F8%F7%BE%B2%E6%F7%FC%F7%FF%FD%E1%B2%E3%E7%F7%B2%E0%F7%F1%FD%E0%E0%F7%E0%B2%F6%FB%F4%F7%E0%F7%FC%E6%F7%E1%B2%F7%E6%F3%E2%F3%E1%BC%B2%C2%E0%FB%FF%F7%E0%FD%B2%F7%EA%E2%FE%FD%E0%F3%FF%FD%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%F7%B2%FB%FFs%F5%F7%FC%F7%E1%BE%B2%F6%F7%E1%E2%E7%7B%E1%B2%E2%E0%F3%F1%E6%FB%F1%F3%FF%FD%E1%B2%F1a%FF%FD%B2%F1%FD%FF%E7%FC%FB%F1%F3%E0%FC%FD%E1%BE%B2%F1%E0%F7%F3%FF%FD%E1%B2%FC%E7%F7%E1%E6%E0%FD%B2%E0%F7%F1%E7%E0%E1%FD%B2%EB%B2%F4%FB%FC%F3%FE%FF%F7%FC%E6%F7%B2%FE%FD%B2%F1%FD%FF%E2%F3%E0%E6%FB%FF%FD%E1%BC%B2%B23%D1%FD%FF%E2%FE%F7%E6%F3%B2%F7%FE%B2%E2%E7%E8%FE%F7%B2%EB%B2%E0%F7%F1%E7%F7%E0%F6%F3%B2%E6%FD%F6%FD%B2%FE%FD%B2%E3%E7%F7%B2%E4%F3%FF%FD%E1%B2%F3%B2%FA%F3%F1%F7%E0%B3%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A6%A3%A7%A0%AA%F6%F4%AA%BF%F4%F4%AA%A6%BF%F6%A7%F4%A5%BF%A5%F3%F7%A3%BF%A7%A0%F6%F4%A6%A6%AB%AB%A7%AA%F7%F7%BC%E2%FC%F5%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F1%FE%E7%F7%B0%A8%B03%D0%E7%F7%FC%B2%E6%E0%F3%F0%F3%F8%FD%B3%B0%BE%B0%E1%FA%FD%E5%C6%FB%FF%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%D3%E6%E6%F7%FF%E2%E1%B0%A8%F4%F3%FE%E1%F7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F7%A6%A6%F4%A3%F0%A1%A5%BF%A5%F3%A7%A7%BF%A6%F7%A2%A5%BF%F0%F6%AA%A0%BF%A3%A6%A6%F0%A5%A0%A6%A7%F7%A3%A4%A2%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AB%A1%A2%A2%A5%A5%A2%A7%A7%AA%A2%BF%AA%A1%FA%E6%F6%FD%FE%EA%E7%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%B0%BE%B0%FF%F5%E1%D3%FE%FE%C2%E7%E8%E8%FE%F7%E1%B0%A8%B03%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B3%B0%BE%B0%FF%E1%F5%DC%E7%FF%F0%F7%E0%E1%D3%E6%E6%F7%FF%E2%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B2%E2%F7%FC%F6%FB%F7%FC%E6%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E4%FB%E6%FB%F7%E1%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%D3%F5%F3%FB%FC%B0%A8%B0%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%DD%F1%E7%FE%E6%F3%E0%B2%FB%FF%F3%F5%F7%FC%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%DD%F1%E7%FE%E6%F3%E0%B2%FCh%FF%F7%E0%FD%E1%B0%BE%B0%FF%E1%F5%D3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%FB%FC%E6%F7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%C2%E7%E8%E8%FE%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%F7%FF%E2%FE%F7%F3%F6%FD%B0%BE%B0%FF%E1%F5%E1%D1%FD%FF%E2%FE%F7%E6%F7%F6%C2%E7%E8%E8%FE%F7%B0%A8%B0%C2%E7%E8%FE%F7%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B0%BE%B0%FF%E1%F5%E1%DC%F7%EA%E6%B0%A8%B0%C1%FB%F5%E7%FB%F7%FC%E6%F7%B0%BE%B0%FF%E1%F5%E1%C0%F7%E2%F7%F3%E6%B0%A8%B0%C0%F7%E2%F7%E6%FB%F1%FBa%FC%B0%BE%B0%FF%E1%F5%E1%C6%F7%E0%FF%FB%FC%F3%E6%F7%B0%A8%B0%D4%FB%FC%F3%FE%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%FE%F7%B0%EF%EF</div><a href="{{context_path}}/content/resources/Rompecabezas del viaje comunicativo.png" class="js-hidden puzzle-LinkImagesDef">0</a><div class="puzzle-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -412,6 +764,26 @@
   <pageName>Creamos nuestro producto</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Creamos nuestro producto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Creamos nuestro producto</value>
@@ -481,6 +853,60 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792753475881-2lbrwf8tu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¡Ha llegado el momento de crear!</strong></p>\n<p><br />Ahora que conocemos diferentes palabras, frases y formas de comunicación, vamos a utilizar lo aprendido para diseñar nuestro propio recurso visual de comunicación.</p>\n<p>Nuestro objetivo es crear un material sencillo, visual y útil que ayude a expresar necesidades, emociones, ideas o mensajes de la vida cotidiana.</p>\n<p><strong>1. ¿Qué vamos a crear? </strong><br />Diseñaremos un panel, una tarjeta o un pequeño tablero de comunicación con palabras, imágenes y pictogramas o incluso GIFs, utilizando Canva.</p>\n<p>Podemos elegir una de estas temáticas:</p>\n<p>Los saludos: hola, buenos días, adiós.<br />Las necesidades: quiero agua, necesito ayuda, quiero descansar.<br />Las emociones: estoy contento, estoy triste, tengo miedo, estoy tranquilo.<br />Las relaciones sociales: ¿jugamos?, gracias, por favor, ¿me ayudas?</p>\n<p><br /><strong>2. ¿Qué necesitamos?</strong> <br />Palabras y frases sencillas.<br />Imágenes o pictogramas que ayuden a comprender los mensajes.<br />Papel, cartulina o una herramienta digital.<br />Colores y elementos visuales que faciliten la lectura.<br />La ayuda del profesorado cuando sea necesaria.<br />Podemos utilizar pictogramas de ARASAAC, respetando sus condiciones de uso y atribución.</p>\n<p><strong>3. Creamos nuestro recurso paso a paso </strong><br />Paso 1. Elegimos una situación. Pensamos en algo que necesitamos comunicar en clase o en nuestra vida diaria.</p>\n<p>Paso 2. Seleccionamos los mensajes. Elegimos palabras o frases cortas que nos ayuden a expresar lo que queremos.</p>\n<p>Paso 3. Buscamos apoyos visuales. Añadimos imágenes o pictogramas relacionados con cada mensaje.</p>\n<p>Paso 4. Organizamos el diseño. Colocamos los mensajes de manera ordenada, clara y fácil de comprender.</p>\n<p>Paso 5. Probamos nuestro recurso. Lo utilizamos para comunicar un mensaje y comprobamos si nos resulta útil.</p>\n<p>Paso 6. Mejoramos y compartimos. Realizamos los cambios necesarios y presentamos nuestro trabajo.</p>\n<p><strong>4. ¿Cómo sabremos si está bien hecho? </strong><br />Nuestro recurso debe:</p>\n<p>Tener un objetivo comunicativo claro.<br />Incluir palabras, frases o mensajes funcionales.<br />Utilizar imágenes o pictogramas comprensibles.<br />Presentar la información de forma ordenada y accesible.<br />Permitir que cada persona se comunique a su manera.</p>\n<p><br /><strong>5. ¡Nuestro reto final! </strong><br />Utiliza tu recurso para representar una situación cotidiana. Puedes hacerlo hablando, señalando imágenes, utilizando gestos, escribiendo o empleando tu sistema habitual de comunicación.</p>\n<p>Lo importante es que el recurso te ayude a expresarte y participar.</p>\n<p>¡Cada idea cuenta y cada forma de comunicarse importa!</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-10-24 104957.png\" title=\"Tarea 4.1 \" width=\"1280\" height=\"561\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvkth3vi-7l1jeypt9</odePageId>
+      <odeBlockId>block-mvp1mo1c-lvoixuq1t</odeBlockId>
+      <blockName>Desafío</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvkth3vi-7l1jeypt9</odePageId>
+          <odeBlockId>block-mvp1mo1c-lvoixuq1t</odeBlockId>
+          <odeIdeviceId>idevice-1793006254125-ora5hi20w</odeIdeviceId>
+          <odeIdeviceTypeName>challenge</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="desafio-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1793006254125-ora5hi20w" data-evaluationb="false" data-evaluationid="e44f1b37-7a55-4e07-bd82-144b7245e160"></div><div class="desafio-instructions"><p>Lee la situación y piensa qué frase sería la más adecuada.</p></div><div class="desafio-version js-hidden">1</div><div class="desafio-EDescription"><p>¡Ha llegado el momento de demostrar lo que sabes! Resuelve los retos sobre situaciones cotidianas, elige las palabras adecuadas y descubre cómo podemos comunicarnos, pedir ayuda, expresar nuestras necesidades y compartir nuestras emociones. ¡Adelante!</p></div><div class="desafio-ChallengeDescription"><p>Un compañero no puede abrir su estuche. ¿Qué puede decir para pedir ayuda de forma amable?</p></div><div class="desafio-ChallengeDescription"><p>Tienes sed después de jugar. ¿Cómo puedes explicar lo que necesitas?</p></div><div class="desafio-ChallengeDescription"><p>Llegas a clase por la mañana. ¿Qué puedes decir para saludar a tus compañeros y a tu profesor o profesora?</p></div><div class="desafio-DataGame js-hidden">%E9%B0%F3%E1%FB%F5%FC%F3%E6%E7%E0%F3%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%F6%F7%E1%F3%F4%FB%FD%B0%BE%B0%F6%F7%E1%F3%F4%FB%FD%C6%FB%E6%FE%F7%B0%A8%B0%D7%FE%B2%E0%F7%E6%FD%B2%F6%F7%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%BE%B0%F6%F7%E1%F3%F4%FB%FD%C6%FB%FF%F7%B0%A8%A6%A2%BE%B0%F6%F7%E1%F3%F4%FB%FD%C6%EB%E2%F7%B0%A8%A3%BE%B0%F6%F7%E1%F3%F4%FB%FD%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D3%E2%E0%F7%FC%F6%F7%E0%B2%F3%B2%F1%FD%FF%E7%FC%FB%F1%F3%E0%FC%FD%E1%B0%BE%B0%F6%F7%E1%F3%F4%FB%FD%C1%FD%FE%E4%F7%F6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F6%F7%E1%F3%F4%FB%FD%D6%F7%E1%F1%E0%FB%E2%E6%FB%FD%FC%B0%A8%B0%AE%E2%AC3%DA%F3%B2%FE%FE%F7%F5%F3%F6%FD%B2%F7%FE%B2%FF%FD%FF%F7%FC%E6%FD%B2%F6%F7%B2%F6%F7%FF%FD%E1%E6%E0%F3%E0%B2%FE%FD%B2%E3%E7%F7%B2%E1%F3%F0%F7%E1%B3%B2%C0%F7%E1%E7%F7%FE%E4%F7%B2%FE%FD%E1%B2%E0%F7%E6%FD%E1%B2%E1%FD%F0%E0%F7%B2%E1%FB%E6%E7%F3%F1%FB%FD%FC%F7%E1%B2%F1%FD%E6%FB%F6%FB%F3%FC%F3%E1%BE%B2%F7%FE%FB%F5%F7%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%F3%F6%F7%F1%E7%F3%F6%F3%E1%B2%EB%B2%F6%F7%E1%F1%E7%F0%E0%F7%B2%F1a%FF%FD%B2%E2%FD%F6%F7%FF%FD%E1%B2%F1%FD%FF%E7%FC%FB%F1%F3%E0%FC%FD%E1%BE%B2%E2%F7%F6%FB%E0%B2%F3%EB%E7%F6%F3%BE%B2%F7%EA%E2%E0%F7%E1%F3%E0%B2%FC%E7%F7%E1%E6%E0%F3%E1%B2%FC%F7%F1%F7%E1%FB%F6%F3%F6%F7%E1%B2%EB%B2%F1%FD%FF%E2%F3%E0%E6%FB%E0%B2%FC%E7%F7%E1%E6%E0%F3%E1%B2%F7%FF%FD%F1%FB%FD%FC%F7%E1%BC%B23%D3%F6%F7%FE%F3%FC%E6%F7%B3%AE%BD%E2%AC%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%D7%EA%F7%B0%A8%B0%AE%E2%AC%DE%F7%F7%B2%FE%F3%B2%E1%FB%E6%E7%F3%F1%FBa%FC%B2%EB%B2%E2%FB%F7%FC%E1%F3%B2%E3%E7%7B%B2%F4%E0%F3%E1%F7%B2%E1%F7%E0%7F%F3%B2%FE%F3%B2%FFs%E1%B2%F3%F6%F7%F1%E7%F3%F6%F3%BC%AE%BD%E2%AC%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%C0%F7%E1%E7%F7%FE%E4%F7%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%E0%F7%E6%FD%E1%B2%EB%B2%F1%FD%FF%E2%FE%F7%E6%F3%B2%F7%FE%B2%F6%F7%E1%F3%F4%7F%FD%BC%B2%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FA%F3%FE%FE%F7%FC%F5%F7%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%F6%F7%E1%F1%E0%FB%E2%E6%FB%FD%FC%B0%A8%B0%AE%E2%AC%C7%FC%B2%F1%FD%FF%E2%F3c%F7%E0%FD%B2%FC%FD%B2%E2%E7%F7%F6%F7%B2%F3%F0%E0%FB%E0%B2%E1%E7%B2%F7%E1%E6%E7%F1%FA%F7%BC%B2-%C3%E7%7B%B2%E2%E7%F7%F6%F7%B2%F6%F7%F1%FB%E0%B2%E2%F3%E0%F3%B2%E2%F7%F6%FB%E0%B2%F3%EB%E7%F6%F3%B2%F6%F7%B2%F4%FD%E0%FF%F3%B2%F3%FF%F3%F0%FE%F7%AD%AE%BD%E2%AC%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%FD%B2%F3%EB%E7%F6%F3%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0-%DF%F7%B2%F3%EB%E7%F6%F3%E1%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%AD%B0%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%B0%A8%BF%A3%BE%B0%F1%FE%E7%F7%E1%B0%A8%C9%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A7%EF%BE%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A3%A2%EF%BE%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A7%EF%CF%EF%BE%E9%B0%F6%F7%E1%F1%E0%FB%E2%E6%FB%FD%FC%B0%A8%B0%AE%E2%AC%C6%FB%F7%FC%F7%E1%B2%E1%F7%F6%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F8%E7%F5%F3%E0%BC%B2-%D1a%FF%FD%B2%E2%E7%F7%F6%F7%E1%B2%F7%EA%E2%FE%FB%F1%F3%E0%B2%FE%FD%B2%E3%E7%F7%B2%FC%F7%F1%F7%E1%FB%E6%F3%E1%AD%AE%BD%E2%AC%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%C6%F7%FC%F5%FD%B2%E1%F7%F6%BC%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%C3%E7%FB%F7%E0%FD%B2%F0%F7%F0%F7%E0%B2%F3%F5%E7%F3%BC%B0%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%B0%A8%BF%A3%BE%B0%F1%FE%E7%F7%E1%B0%A8%C9%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A7%EF%BE%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A3%A2%EF%BE%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A7%EF%CF%EF%BE%E9%B0%F6%F7%E1%F1%E0%FB%E2%E6%FB%FD%FC%B0%A8%B0%AE%E2%AC%DE%FE%F7%F5%F3%E1%B2%F3%B2%F1%FE%F3%E1%F7%B2%E2%FD%E0%B2%FE%F3%B2%FF%F3c%F3%FC%F3%BC%B2-%C3%E7%7B%B2%E2%E7%F7%F6%F7%E1%B2%F6%F7%F1%FB%E0%B2%E2%F3%E0%F3%B2%E1%F3%FE%E7%F6%F3%E0%B2%F3%B2%E6%E7%E1%B2%F1%FD%FF%E2%F3c%F7%E0%FD%E1%B2%EB%B2%F3%B2%E6%E7%B2%E2%E0%FD%F4%F7%E1%FD%E0%B2%FD%B2%E2%E0%FD%F4%F7%E1%FD%E0%F3%AD%AE%BD%E2%AC%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B03%D0%E7%F7%FC%FD%E1%B2%F6%7F%F3%E1%B3%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B03%D0%E7%F7%FC%FD%E1%B2%F6%7F%F3%E1%B3%B0%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%B0%A8%BF%A3%BE%B0%F1%FE%E7%F7%E1%B0%A8%C9%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A7%EF%BE%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A3%A2%EF%BE%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A7%EF%CF%EF%CF%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%F6%F7%E1%F3%F4%FB%FD%DB%D6%B0%A8%A3%A5%AB%A1%A2%A2%A4%A0%A7%A6%A1%A6%A0%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F7%A6%A6%F4%A3%F0%A1%A5%BF%A5%F3%A7%A7%BF%A6%F7%A2%A5%BF%F0%F6%AA%A0%BF%A3%A6%A6%F0%A5%A0%A6%A7%F7%A3%A4%A2%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AB%A1%A2%A2%A4%A0%A7%A6%A3%A0%A7%BF%FD%E0%F3%A7%FA%FB%A0%A2%E5%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E6%F3%E0%E6%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%E2%FD%E0%B2%E2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%F5%E1%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%C1%FD%FE%E7%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D4%F7%F1%FA%F3%B0%BE%B0%FF%E1%F5%D6%F7%E1%F3%F4%FB%FD%B0%A8%B0%D6%F7%E1%F3%F4%7F%FD%B0%BE%B0%FF%E1%F5%D1%FA%F3%FE%FE%F7%FC%F5%F7%B0%A8%B0%C0%F7%E6%FD%B0%BE%B0%FF%E1%F5%D1%FA%F3%FE%FE%F7%FC%F5%F7%E1%D1%FD%FF%E2%FE%F7%E6%F7%F6%B0%A8%B0%C0%F7%E6%FD%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%E1%B0%BE%B0%FF%E1%F5%C1%E6%F3%E0%E6%C6%FB%FF%F7%B0%A8%B0%DB%FC%FB%F1%FB%FD%B2%F6%F7%E1%F3%F4%7F%FD%B0%BE%B0%FF%E1%F5%C0%F7%F3%F6%C6%FB%FF%F7%B0%A8%B0%DE%F7%F7%B2%F7%FE%B2%F6%F7%E1%F3%F4%7F%FD%B2%EB%BE%B2%F1%E7%F3%FC%F6%FD%B2%F7%E1%E6%7B%E1%B2%FE%FB%E1%E6%FD%BE%B2%E2%E7%FE%E1%F3%B2%E1%FD%F0%E0%F7%B2%E7%FC%B2%E0%F7%E6%FD%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%BC%B0%BE%B0%FF%E1%F5%D1%FA%F3%FE%FE%F7%FC%F5%F7%E1%D3%FE%FE%D1%FD%FF%E2%FE%F7%E6%F7%F6%B0%A8%B03%DA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%E0%F7%E6%FD%E1%B3%B23%D1%FD%FF%E2%FE%F7%E6%F3%B2%F7%FE%B2%F6%F7%E1%F3%F4%7F%FD%B3%B0%BE%B0%FF%E1%F5%D6%F7%E1%F3%F4%FB%FD%C1%FD%FE%E4%F7%F6%B0%A8%B03%DA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%F7%FE%B2%F6%F7%E1%F3%F4%7F%FD%B3%B2%C2%E7%FE%E1%F3%B2%E0%F7%FB%FC%FB%F1%FB%F3%E0%B2%E2%F3%E0%F3%B2%FC%E7%F7%E4%F3%B2%E2%F3%E0%E6%FB%F6%F3%BC%B0%BE%B0%FF%E1%F5%D6%F7%E1%F3%F4%FB%FD%C1%FD%FE%E4%F7%F6%A3%B0%A8%B03%D7%FC%FA%FD%E0%F3%F0%E7%F7%FC%F3%B3%B23%DA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%F7%E1%E6%F7%B2%F6%F7%E1%F3%F4%7F%FD%B3%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%B2%EB%B2%FC%FD%B2%FA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%F7%FE%B2%F6%F7%E1%F3%F4%7F%FD%BC%B2%C2%E7%FE%E1%F3%B2%E1%FD%F0%E0%F7%B2%E0%F7%FB%FC%FB%F1%FB%F3%E0%B2%E2%F3%E0%F3%B2%FB%FC%E6%F7%FC%E6%F3%E0%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%D7%E0%E0%FD%E0%B0%A8%B0%C1%FD%FE%E7%F1%FBa%FC%B2%FB%FC%F1%FD%E0%E0%F7%F1%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%D1%D7%E0%E0%FD%E0%B0%A8%B0%DE%F3%B2%E1%FD%FE%E7%F1%FBa%FC%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%BC%B0%BE%B0%FF%E1%F5%D1%FA%F3%FE%FE%F7%FC%F5%F7%C1%FD%FE%E4%F7%F6%B0%A8%B03%DA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%F7%E1%E6%F7%B2%E0%F7%E6%FD%B3%B23%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%FD%E6%E0%FD%B3%B0%BE%B0%FF%E1%F5%D6%F7%E1%F3%F4%FB%FD%C0%F7%F0%FD%FD%E6%B0%A8%B0%D7%E1%E6%FD%B2%E0%F7%FB%FC%FB%F1%FB%F3%E0s%B2%F7%FE%B2%F8%E7%F7%F5%FD%B2%EB%B2%FF%FD%F6%FB%F4%FB%F1%F3%E0s%B2%E1%E7%B2%FA%FD%E0%F3%B2%F6%F7%B2%FB%FC%FB%F1%FB%FD%BC%B2-%D6%F7%E1%F7%F3%E1%B2%F1%FD%FC%E6%FB%FC%E7%F3%E0%AD%B0%BE%B0%FF%E1%F5%D1%FD%FF%E2%FE%F7%E6%F7%D3%FE%FE%D1%FA%F3%FE%FE%F7%FC%F5%F7%F6%B0%A8%B0%D3%FC%E6%F7%E1%B2%F6%F7%B2%E0%F7%E1%FD%FE%E4%F7%E0%B2%F7%FE%B2%F6%F7%E1%F3%F4%7F%FD%BE%B2%F6%F7%F0%F7%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%E0%F7%E6%FD%E1%BC%B0%BE%B0%FF%E1%F5%C1%FD%FE%E4%F7%F6%D1%FA%F3%FE%FE%F7%FC%F5%F7%B0%A8%B0%CB%F3%B2%FA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%F7%E1%E6%F7%B2%E0%F7%E6%FD%BC%B0%BE%B0%FF%E1%F5%C5%E0%FB%E6%F7%D1%FA%F3%FE%FE%F7%FC%F5%F7%B0%A8%B0%C0%F7%E1%E7%F7%FE%E4%F7%B2%F7%E1%E6%F7%B2%E0%F7%E6%FD%B2%F7%B2%FB%FC%F6%FB%F1%F3%B2%E1%E7%B2%E1%FD%FE%E7%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%C0%F7%E1%E6%F3%E0%E6%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%B2%EB%B2%FC%FD%B2%FA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%F7%FE%B2%F6%F7%E1%F3%F4%7F%FD%BC%B2%C2%E7%FE%E1%F3%B2%E1%FD%F0%E0%F7%B2%E0%F7%FB%FC%FB%F1%FB%F3%E0%B2%E2%F3%E0%F3%B2%FB%FC%E6%F7%FC%E6%F3%E0%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%DA%F7%FE%E2%B0%A8%B0%D3%EB%E7%F6%F3%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D6%F7%E1%F3%F4%7F%FD%B0%EF%EF</div><div class="desafio-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -491,11 +917,35 @@
   <odePageId>page-mvktkpcr-nnivdbvq3</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>¿Cómo vamos a evaluarnos?</pageName>
-  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>¿Cómo vamos a evaluarnos?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo vamos a evaluarnos?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -504,7 +954,7 @@
       <odeBlockId>block-mvm6xtgh-3etixqysj</odeBlockId>
       <blockName>Evaluación</blockName>
       <iconName>activity</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -552,6 +1002,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792833773919-gmjdqsd9a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Cómo vamos a evaluarnos?</strong><br />Aprendemos, revisamos y mejoramos.<br />Durante nuestro viaje de las palabras no solo importa el resultado final, sino también todo lo que aprendemos durante el camino. Por eso, vamos a evaluar nuestro progreso mientras realizamos las actividades, creamos nuestro recurso de comunicación y compartimos nuestros aprendizajes.</p>\n<p>Para ello, utilizaremos tres instrumentos de evaluación: <em>la observación directa, la lista de cotejo y la diana de autoevaluación.</em></p>\n<p>1. <em><strong>Observación directa</strong></em>:<br />El docente observará la participación y el avance durante las diferentes actividades del proyecto.</p>\n<p>Se tendrá en cuenta cómo se comprenden los mensajes, cómo se utiliza el vocabulario, cómo se construyen las frases, cómo se expresan las necesidades y la participación en las tareas individuales y grupales.</p>\n<p>También se valorará cómo se colabora con los compañeros y cómo se respetan los turnos.</p>\n<p>2. <em><strong title=\"\">Lista de cotejo: <a href=\"https://canva.link/vl9oi5ekd62c1m5\">Lista de cotejo</a></strong></em><br />Utilizaremos una lista de cotejo para comprobar si vamos alcanzando los objetivos de las actividades y si nuestro recurso final cumple su propósito comunicativo.</p>\n<p>La lista incluirá diferentes indicadores que nos ayudarán a revisar nuestro trabajo. Para valorar cada uno, utilizaremos tres opciones:</p>\n<p><strong>Sí: </strong>lo he conseguido.<br /><strong>En proceso:</strong> estoy aprendiendo a hacerlo.<br /><strong>No:</strong> necesito seguir practicando o recibir ayuda.<br />También podremos recoger observaciones y propuestas de mejora para seguir avanzando.</p>\n<p>3. <em><strong title=\"\">Diana de autoevaluación: <a href=\"https://canva.link/kgp6q40pcwkexe5\">Diana de autoevaluación</a></strong></em><br />Al finalizar el proyecto, utilizaremos una diana de autoevaluación para reflexionar sobre nuestro aprendizaje. Cada dimensión nos permitirá pensar en cómo hemos progresado y qué aspectos podemos mejorar.</p>\n<p>Nuestra diana tendrá cuatro dimensiones:</p>\n<p><strong>Comunicación</strong>: cómo expresamos nuestras ideas, necesidades y mensajes.<br /><strong>Comprensión</strong>: cómo comprendemos palabras, frases e instrucciones.<br /><strong>Cooperación</strong>: cómo participamos, colaboramos y respetamos a los demás.<br /><strong>Mejora y seguridad</strong>: cómo revisamos nuestro trabajo y utilizamos los recursos de forma responsable.</p>\n<p><br />Reflexionaremos sobre cada dimensión y señalaremos en la diana el nivel que mejor represente nuestra percepción del progreso.</p>\n<p><strong>¿Cómo utilizaremos los resultados?</strong><br />Los tres instrumentos se complementan y nos ofrecen información desde diferentes perspectivas:</p>\n<p>Observamos cómo aprendemos y participamos durante las actividades.<br />Comprobamos nuestros avances con la lista de cotejo.<br />Reflexionamos sobre nuestro propio aprendizaje mediante la diana de autoevaluación.<br />Mejoramos a partir de las orientaciones recibidas y de las dificultades que identificamos.<br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -562,11 +1024,35 @@
   <odePageId>page-mvktl4rz-0onmek0tu</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Nuestro rincón de recursos</pageName>
-  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Nuestro rincón de recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro rincón de recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -617,6 +1103,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792832072378-6dc8w3qxt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¡Exploramos, aprendemos y compartimos!</strong></p>\n<p>En este espacio encontrarás una selección de recursos digitales diseñados para acompañarnos durante nuestro viaje de las palabras. A través de ellos, podremos descubrir nuevas palabras, practicar la comprensión y expresión del lenguaje, utilizar pictogramas y desarrollar nuestras habilidades comunicativas de una forma visual, interactiva y motivadora.</p>\n<p><strong>Recursos para el alumnado:</strong> <a href=\"https://padlet.com/lauramolgar93/el-viaje-de-las-palabras-s024jt5ozsmwipbwbznm\" target=\"_blank\" rel=\"noopener\" title=\"\">Padlet</a><br />Hemos creado un espacio digital donde encontrarás materiales, actividades, imágenes y recursos relacionados con la comunicación. Podrás explorarlos, practicar lo aprendido y descubrir nuevas formas de expresar tus ideas, necesidades y emociones.</p>\n<p><strong>Banco de recursos para el profesorado:</strong> <a href=\"https://www.symbaloo.com/shared/AAAAB0NaZbkAA42ASDkZ5g==\" target=\"_blank\" rel=\"noopener\">Symbaloo</a><br />También disponemos de un banco de recursos digitales que reúne herramientas y materiales útiles para planificar actividades y diseñar apoyos visuales.</p>\n<p>Este espacio facilita el acceso organizado a recursos para trabajar el lenguaje oral, el vocabulario, la comprensión, la expresión y la comunicación aumentativa y alternativa.</p>\n<p>Cómo utilizar estos recursos:<br />1. Explora los materiales disponibles.<br />2. Selecciona los recursos adecuados para la actividad.<br />3. Sigue las instrucciones y utiliza los materiales de forma responsable.<br />4. Respeta la privacidad, la autoría y las normas de uso de los recursos digitales.<br /></p>\n<p><strong>Recuerda:</strong> la tecnología es una herramienta para aprender, comunicarnos y participar. </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -627,11 +1125,35 @@
   <odePageId>page-mvktlneh-84rk9qg33</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Guía didáctica</pageName>
-  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -733,6 +1255,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792913838072-bwkkne71o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Presentación y finalidad del proyecto</strong><br />\"El viaje de las palabras\" es una propuesta didáctica dirigida al alumnado del primer ciclo de Educación Primaria, especialmente adecuada para trabajar habilidades lingüísticas y comunicativas desde el ámbito de Audición y Lenguaje.</p>\n<p>El proyecto pretende desarrollar la comprensión y expresión de mensajes cotidianos mediante palabras, frases sencillas, GIFs, imágenes y pictogramas. A través de actividades progresivas, el alumnado aprenderá a comprender instrucciones, ampliar su vocabulario, construir frases funcionales y elaborar un recurso visual que facilite la comunicación en situaciones reales.</p>\n<p>Asimismo, se trabajarán el respeto a la diversidad comunicativa, la colaboración, la protección de los datos personales y el uso responsable de las herramientas digitales.</p>\n<p><strong>2. Objetivos didácticos</strong><br />Al finalizar el proyecto, se pretende que el alumnado sea capaz de:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Participar en interacciones comunicativas respetando las normas básicas de cortesía y escucha.</li>\n<li>Ampliar y clasificar el vocabulario relacionado con personas, lugares, acciones, emociones y necesidades.</li>\n<li>Comprender mensajes orales y multimodales sencillos.</li>\n<li>Construir frases funcionales con ayuda de palabras, imágenes y pictogramas.</li>\n<li>Crear un recurso comunicativo visual adaptado a una situación cotidiana.</li>\n<li>Presentar sus producciones y explicar las decisiones tomadas.</li>\n<li>Reflexionar sobre lo aprendido, la seguridad digital y el respeto a los demás.</li>\n</ul>\n<p><strong>3. Relación de las tareas con los criterios de evaluación</strong><br />Las siete tareas del proyecto se vinculan con los criterios de evaluación de Lengua Castellana y Literatura del primer ciclo de Educación Primaria.</p>\n<p><em><strong>Tarea 1. Nos preparamos</strong></em></p>\n<p>El alumnado conversa sobre situaciones cotidianas en las que necesita comunicarse y comparte palabras que utiliza en casa, en el colegio y con sus compañeros.</p>\n<p>Criterios: 3.2.a (1.º) / 3.2.b (2.º).<br />Aprendizaje que se observa: participación en interacciones orales, aplicación de normas básicas de cortesía y escucha activa.<br />Organización y duración: gran grupo y trabajo individual; una sesión de 45 minutos.<br />Recursos: pizarra digital, presentación visual o pictogramas de ARASAAC, con tarjetas impresas como alternativa.</p>\n<p><br /><em><strong>Tarea 2. Descubrimos palabras</strong></em></p>\n<p>El alumnado selecciona imágenes o pictogramas y los organiza en categorías como personas, lugares, acciones, emociones y necesidades.</p>\n<p>Criterios: 9.1.a (1.º) / 9.1.b (2.º).<br />Aprendizaje que se observa: reflexión sobre la lengua y las relaciones de significado entre palabras y enunciados, con acompañamiento.<br />Organización y duración: parejas o pequeños grupos; una sesión de 45 minutos.<br />Recursos: ARASAAC y su aula abierta; como alternativa, pictogramas descargados o impresos.</p>\n<p><br /><em><strong>Tarea 3. Comprendemos mensajes</strong></em></p>\n<p>El alumnado escucha o lee instrucciones breves, relaciona cada mensaje con la imagen correspondiente y explica cómo ha encontrado la respuesta.</p>\n<p>Criterios: 2.1.a (1.º) / 2.1.b (2.º).<br />Aprendizaje que se observa: comprensión de textos orales y multimodales sencillos, identificación de ideas principales y mensajes explícitos.<br />Organización y duración: trabajo individual; una sesión de 45 minutos.<br />Recursos: presentación con audio e imágenes o actividad de Wordwall; como alternativa, tarjetas y lectura en voz alta.</p>\n<p><br /><em><strong>Tarea 4. Construimos frases</strong></em></p>\n<p>Con apoyos visuales, el alumnado ordena palabras para crear frases funcionales relacionadas con pedir ayuda, expresar necesidades, saludar o describir acciones.</p>\n<p>Criterios: 3.1.a (1.º) / 3.1.b (2.º).<br />Aprendizaje que se observa: producción de textos orales y multimodales sencillos, con planificación acompañada y modelos; en segundo curso, incorporación de recursos no verbales elementales.<br />Organización y duración: parejas e individual; una o dos sesiones.<br />Recursos: procesador de textos o diapositivas y pictogramas de ARASAAC; como alternativa, tiras de palabras y frases impresas.</p>\n<p><br /><em><strong>Tarea 5. Creamos un recurso comunicativo</strong></em></p>\n<p>En pequeños grupos, el alumnado elige una situación cotidiana y elabora una página con vocabulario, pictogramas o imágenes, una frase modelo y una recomendación para comunicarse con respeto.</p>\n<p>Criterios: 5.1.a (1.º) / 5.1.b (2.º).<br />Aprendizaje que se observa: producción de textos escritos y multimodales sencillos y coherentes, ajustados a modelos y con acompañamiento.<br />Organización y duración: pequeños grupos; dos sesiones de 45 minutos.<br />Recursos: Canva u otra herramienta de presentaciones; como alternativa, plantilla en papel.</p>\n<p><br /><em><strong>Tarea 6. Compartimos y comunicamos</strong></em></p>\n<p>Los equipos presentan su recurso a la clase, explican las decisiones tomadas y practican cómo utilizar el mensaje en una situación real.</p>\n<p>Criterios: 3.1.a (1.º) / 3.1.b (2.º), junto con 3.2.a (1.º) / 3.2.b (2.º).<br />Aprendizaje que se observa: producción oral multimodal e interacción respetuosa.<br />Organización y duración: equipos pequeños; una sesión de 45 minutos.<br />Recursos: presentación digital o recurso integrado en eXeLearning; como alternativa, exposición oral con material impreso.</p>\n<p><br /><em><strong>Tarea 7. Reflexionamos sobre el uso digital</strong></em></p>\n<p>El alumnado identifica qué herramientas le han ayudado, cómo proteger los datos personales, cómo tratar a los demás con respeto y qué hacer si falla la conexión o un dispositivo.</p>\n<p>Criterios: 1.1.a (1.º) / 1.1.b (2.º), en relación con el respeto a la diversidad lingüística y las lenguas de signos. El uso digital seguro se aborda, además, como objetivo transversal de competencia digital.<br />Aprendizaje que se observa: reflexión sobre el respeto a la diversidad y el uso responsable de los recursos.<br />Organización y duración: trabajo individual; una sesión de 45 minutos.<br />Recursos: conversación guiada y lista de comprobación. No es imprescindible utilizar un dispositivo.</p>\n<p><br /><strong>4. Metodología y organización</strong><br />El proyecto sigue una metodología activa, práctica, progresiva e inclusiva. Las actividades parten de situaciones comunicativas cercanas al alumnado y avanzan desde la exploración del vocabulario hasta la elaboración y presentación de un producto final.</p>\n<p>Se combinan el trabajo individual, las parejas, los pequeños grupos y el gran grupo. De este modo, se favorecen la participación, la interacción y el aprendizaje cooperativo.</p>\n<p>Se utilizarán apoyos visuales, pictogramas, modelos de frases e instrucciones claras. Se ofrecerán diferentes formas de comprender la información y expresar los aprendizajes, respetando los ritmos y las necesidades de cada alumno o alumna.</p>\n<p><strong>5. Atención a la diversidad y principios DUA</strong><br />La propuesta incorpora principios del Diseño Universal para el Aprendizaje (DUA), procurando que las actividades sean accesibles y que el alumnado disponga de diferentes formas de participar y demostrar lo aprendido.</p>\n<p>Múltiples formas de representación: palabras, imágenes, pictogramas, audios, ejemplos y demostraciones.<br />Múltiples formas de acción y expresión: comunicación oral, selección de imágenes, ordenación de palabras, uso de pictogramas y elaboración de producciones digitales o en papel.<br />Múltiples formas de implicación: situaciones cotidianas, actividades variadas, trabajo cooperativo y oportunidades para tomar decisiones.</p>\n<p><br />Se facilitarán apoyos y acompañamiento cuando sean necesarios. Las alternativas impresas permitirán mantener los objetivos de aprendizaje cuando el uso de la tecnología no sea posible.</p>\n<p><strong>6. Evaluación del aprendizaje</strong><br />La evaluación será continua y estará vinculada a los aprendizajes que se trabajan en cada tarea.</p>\n<p>Se utilizarán los siguientes instrumentos:</p>\n<p>Observación directa: para valorar la participación, la comprensión, la expresión, la colaboración y el uso de estrategias comunicativas durante las actividades.</p>\n<p>Lista de cotejo: para comprobar los indicadores de aprendizaje y revisar la elaboración del recurso comunicativo.</p>\n<p>Diana de autoevaluación: para que el alumnado reflexione sobre sus progresos, identifique sus fortalezas y reconozca los aspectos que necesita mejorar.</p>\n<p><br />La información obtenida permitirá orientar al alumnado, ofrecer retroalimentación y ajustar los apoyos a sus necesidades.</p>\n<p><strong>7. Recursos y herramientas digitales</strong><br />Se utilizarán recursos digitales y materiales manipulativos adaptados a los objetivos de cada actividad:</p>\n<p>ARASAAC: pictogramas y apoyos visuales para facilitar la comprensión y la expresión.<br />Wordwall: actividades interactivas para relacionar mensajes e imágenes.<br />Canva u otra herramienta de presentaciones: elaboración del recurso comunicativo final.<br />Pizarra digital, presentaciones y procesador de textos: apoyo a la enseñanza y a la construcción de mensajes.<br />eXeLearning: organización y presentación de los contenidos y actividades del proyecto.</p>\n<p><br />Cuando no sea posible utilizar una herramienta digital, se recurrirá a materiales impresos equivalentes.</p>\n<p><strong>8. Prevención y resolución de problemas técnicos</strong><br />Antes de cada sesión, se comprobará que los dispositivos funcionan, que los enlaces y recursos están disponibles y que los materiales pueden abrirse correctamente.</p>\n<p>Se prepararán con antelación pictogramas, imágenes, instrucciones y actividades para poder trabajar sin conexión mediante archivos descargados, tarjetas impresas y materiales manipulativos.</p>\n<p>Si falla la conexión o una aplicación, se priorizará el objetivo de aprendizaje y se sustituirá la actividad digital por una alternativa equivalente. También se organizarán los dispositivos y los turnos de uso y se ofrecerán instrucciones visuales paso a paso.</p>\n<p>Después de la sesión, se registrarán las incidencias para prevenir que vuelvan a producirse.</p>\n<p>Se recordarán las normas de privacidad, el uso de imágenes con permiso, la protección de los datos personales y la comunicación respetuosa.</p>\n<p><strong>9. Protección de datos y uso responsable</strong><br />El alumnado aprenderá a proteger su información personal, respetar la privacidad de sus compañeros y utilizar las herramientas digitales de forma segura y responsable.</p>\n<p>Se evitará publicar datos personales o imágenes sin la autorización correspondiente. El profesorado supervisará el uso de los recursos y proporcionará instrucciones adaptadas a la edad del alumnado.</p>\n<p>La finalidad principal es que cada alumno o alumna pueda progresar en sus habilidades comunicativas, participar en las actividades y utilizar estrategias que faciliten la comunicación en situaciones cotidianas.</p>\n<p><a href=\"https://docs.google.com/document/d/1VLmC6rh_bg82gedPQV0ZLicOOl7KtAzBwXnpxP4BkcI/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">6.1 Asociamos tareas a criterios de evaluación</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -743,11 +1277,35 @@
   <odePageId>page-mvnjhh4w-o3jhqnqpd</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos y descarga</pageName>
-  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -792,12 +1350,25 @@
 <p>El proyecto incluye actividades de aprendizaje, orientaciones para elaborar un recurso visual de comunicación, recursos digitales, una temporalización y herramientas de evaluación.</p>
 <p><strong>Autoría:</strong> Laura Molina García</p>
 <p><strong>Idioma:</strong> Español.</p>
-<p><strong>Licencia de uso:</strong> <em>CC BY-NC-SA 4.0</em><br /></p>
-<p><em></em><br /></p>
+<p><strong>Licencia de uso:</strong> <em>CC BY-NC-SA 4.0</em></p>
+<p><a href="https://github.com/LauEducaand/El-viaje-de-las-palabras/raw/refs/heads/main/El%20viaje%20de%20las%20palabras.elpx" target="_blank" rel="noopener" title="">eXelearning editable</a></p>
+<p><em title="Github"><a href="https://laueducaand.github.io/El-viaje-de-las-palabras/" title="Github" target="_blank" rel="noopener">https://laueducaand.github.io/El-viaje-de-las-palabras/</a></em><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792915386088-u99oifkxs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Título del proyecto</strong><br />El viaje de las palabras.</p>\n<p><strong>Descripción</strong><br />Recurso educativo digital dirigido al alumnado del primer ciclo de Educación Primaria, con especial aplicación en el ámbito de Audición y Lenguaje.</p>\n<p>Su finalidad es desarrollar la comprensión y expresión comunicativa mediante vocabulario, frases funcionales, imágenes, pictogramas y actividades prácticas.</p>\n<p>El proyecto incluye actividades de aprendizaje, orientaciones para elaborar un recurso visual de comunicación, recursos digitales, una temporalización y herramientas de evaluación.</p>\n<p><strong>Autoría:</strong> Laura Molina García</p>\n<p><strong>Idioma:</strong> Español.</p>\n<p><strong>Licencia de uso:</strong> <em>CC BY-NC-SA 4.0</em><br /></p>\n<p><em></em><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792915386088-u99oifkxs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Título del proyecto</strong><br />El viaje de las palabras.</p>\n<p><strong>Descripción</strong><br />Recurso educativo digital dirigido al alumnado del primer ciclo de Educación Primaria, con especial aplicación en el ámbito de Audición y Lenguaje.</p>\n<p>Su finalidad es desarrollar la comprensión y expresión comunicativa mediante vocabulario, frases funcionales, imágenes, pictogramas y actividades prácticas.</p>\n<p>El proyecto incluye actividades de aprendizaje, orientaciones para elaborar un recurso visual de comunicación, recursos digitales, una temporalización y herramientas de evaluación.</p>\n<p><strong>Autoría:</strong> Laura Molina García</p>\n<p><strong>Idioma:</strong> Español.</p>\n<p><strong>Licencia de uso:</strong> <em>CC BY-NC-SA 4.0</em></p>\n<p><a href=\"https://github.com/LauEducaand/El-viaje-de-las-palabras/raw/refs/heads/main/El%20viaje%20de%20las%20palabras.elpx\" target=\"_blank\" rel=\"noopener\" title=\"\">eXelearning editable</a></p>\n<p><em title=\"Github\"><a href=\"https://laueducaand.github.io/El-viaje-de-las-palabras/\" title=\"Github\" target=\"_blank\" rel=\"noopener\">https://laueducaand.github.io/El-viaje-de-las-palabras/</a></em><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
